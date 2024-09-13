@@ -40,7 +40,7 @@ Keep your questions crisp. Ask only one question at a time and wait for the user
 After completing all steps, inform the user that their initial draft is complete and ask if they would like to review or modify any part of their story."""
 
 # Set up OpenAI API key
-OPENAI_API_KEY ="sk-proj-L2IiqEsYEyh6UwtwdHiTT3BlbkFJ0uVccBHm8KIWVIjIXlrW"
+OPENAI_API_KEY ="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"
 
 # Initialize OpenAI client
 client = OpenAI(api_key=OPENAI_API_KEY)
